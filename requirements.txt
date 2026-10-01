@@ -1,4 +1,8 @@
+fastapi
+pydantic
 pandas
 numpy
 scikit-learn
-flask
+uvicorn
+
+
